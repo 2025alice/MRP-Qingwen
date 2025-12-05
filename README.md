@@ -7,7 +7,7 @@ This project explores the **Explainability of AI Models**. By training a Convolu
 
 ### Contents
 * **Presentation:** [[Link to your PDF](https://docs.google.com/presentation/d/1hYvRI_I33bxT1O_U2WwUgKOOyishlYOr126nwrzArF8/edit?usp=sharing)]
-* **Code:** `mnist_shap_explainer.ipynb`
+* **Code:** `MRP.ipynb`
 * **Demo Video:** [[Link to YouTube](https://youtu.be/X2yhCKm-fOQ?si=E8R9aLRK9Fs__6bw)]
 
 ### Method
