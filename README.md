@@ -16,4 +16,4 @@ This project explores the **Explainability of AI Models**. By training a Convolu
 3. **Interpretability Tool:** SHAP (DeepExplainer).
 
 ### Results
-The model achieves ~98% accuracy. The SHAP plots reveal that the model correctly identifies curvature and empty spaces to distinguish between digits (e.g., distinguishing a 3 from an 8).
+The model achieves ~98% accuracy. The SHAP plots reveal that the model correctly identifies curvature and empty spaces to distinguish between digits。
